@@ -1,0 +1,11 @@
+.admin_userinterface{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 2em;
+}
+#level,#time{
+    font-size: 0.8em;
+}
+input{
+    font-size: 0.6em;
+}
